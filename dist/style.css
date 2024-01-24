@@ -1,0 +1,12 @@
+body{
+  background-image:url("https://kartinki.pics/uploads/posts/2022-02/thumbs/1644903973_2-kartinkin-net-p-kartinki-na-fon-2.jpg");
+float:left;  
+}
+img{
+  width:33%;
+  height:200px;
+  
+}
+img:hover{
+    border:2px solid Red;
+}
